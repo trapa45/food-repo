@@ -23,3 +23,8 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
 }
+.About-me{
+   background-image: url(7.png);
+   background-repeat: no-repeat;
+   background-position: right;
+}
