@@ -41,4 +41,12 @@ h2{
 }
 .food-list{
     text-align: center;
+    }
+.bold-k{
+   font-weight: bold;
 }
+.title-fd{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
